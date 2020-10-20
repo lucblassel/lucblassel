@@ -1,4 +1,4 @@
-#  Luc Blassel (@lucblassel)
+#  Luc Blassel
 
 ## Who am I?
 PhD. student in bioinformatics at the [institut pasteur](https://research.pasteur.fr/fr/).  
@@ -7,7 +7,7 @@ I am interested in using machine learning to solve biological problems, more spe
 ## What am I currently working on ? 
 
 Studying drug resistance mutations in HIV: [info](https://research.pasteur.fr/en/project/drm-hiv/) & [more info](https://research.pasteur.fr/en/project/applying-machine-learning-to-sequence-analysis-phd-luc-blassel-prairie/)  
-Relevant repos: [lucblasse/utils_hiv](https://github.com/lucblassel/utils_hiv) & [lucblasse/HIV-DRM-machine-learning](https://github.com/lucblassel/HIV-DRM-machine-learning)
+Relevant repos: [lucblassel/utils_hiv](https://github.com/lucblassel/utils_hiv) & [lucblassel/HIV-DRM-machine-learning](https://github.com/lucblassel/HIV-DRM-machine-learning)
 
 ## Where to find me: 
  - [work page](https://research.pasteur.fr/en/member/luc-blassel/)
@@ -15,5 +15,6 @@ Relevant repos: [lucblasse/utils_hiv](https://github.com/lucblassel/utils_hiv) &
  - [google scholar](https://scholar.google.com/citations?user=RYs6rFwAAAAJ&hl=en)
  - [ORCID](https://orcid.org/0000-0002-6598-7673)
  - [linkedin](https://www.linkedin.com/in/luc-blassel/)
+ - [twitter](https://twitter.com/lucblassel)
 
 *[contact me](https://lucblassel.com/contact)*
