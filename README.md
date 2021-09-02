@@ -8,22 +8,27 @@
 
 ## Where to find me
 
-<p align="center" style="display:flex; justify-content:space-evenly;">
+<p align="center">
     <a href="https://research.pasteur.fr/en/member/luc-blassel/">
         <img src="icons/work.svg" alt="work">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="lucblassel.com">
         <img src="icons/website.svg">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=RYs6rFwAAAAJ&hl=en">
         <img src="icons/scholar.svg">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://orcid.org/0000-0002-6598-7673">
         <img src="icons/orcid.svg">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/luc-blassel/">
         <img src="icons/linkedin.svg">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/lucblassel">
         <img src="icons/twitter.svg">
     </a>
