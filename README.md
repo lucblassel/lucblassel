@@ -13,7 +13,7 @@
         <img src="icons/work.svg" alt="work">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="lucblassel.com">
+    <a href="https://lucblassel.com">
         <img src="icons/website.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
