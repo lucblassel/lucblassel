@@ -1,11 +1,5 @@
 #  Luc Blassel
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=lucblassel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophies">
-    </a>
-</p>
-
 ## Where to find me
 
 <p align="center">
@@ -38,19 +32,20 @@
 PhD. student in bioinformatics at the [institut pasteur](https://research.pasteur.fr/fr/).  
 I am interested in using machine learning to solve biological problems, more specifically on biological sequence data (DNA, amino acids, ...)  
 
-[![luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucblassel&theme=onedark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucblassel&layout=compact&hide=jupyter%20notebook,TeX&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-## What am I currently working on ? 
 
-Studying drug resistance mutations in HIV, using machine learning. You can find information [here](https://research.pasteur.fr/en/project/drm-hiv/) as well as [here](https://research.pasteur.fr/en/project/applying-machine-learning-to-sequence-analysis-phd-luc-blassel-prairie/)  
-The relevant repositories:  
-
-<p float="center">
-    <a href="https://github.com/lucblassel/utils_hiv">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucblassel&repo=utils_hiv&theme=onedark" width="49%">
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=lucblassel&theme=onedark&show_icons=true&count_private=true&include_all_commits=true" width="60%">
     </a>
-    <a href="https://github.com/lucblassel/HIV-DRM-machine-learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucblassel&repo=HIV-DRM-machine-learning&theme=onedark" width="49%">
+</p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucblassel&layout=compact&hide=jupyter%20notebook,TeX&langs_count=10&theme=onedark" width="50%">
     </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=lucblassel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" alt="trophies", width="60%">
+    </a>
+</p>
