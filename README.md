@@ -29,15 +29,8 @@
 </p>
 
 ## Who am I?
-PhD. student in bioinformatics at the [institut pasteur](https://research.pasteur.fr/fr/).  
-I am interested in using machine learning to solve biological problems, more specifically on biological sequence data (DNA, amino acids, ...)  
+PostDoc bioinformatics, I am interested in using machine learning to solve biological problems, more specifically on biological sequence data (DNA, amino acids, ...)  
 
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucblassel&theme=onedark&show_icons=true&count_private=true&include_all_commits=true" width="60%">
-    </a>
-</p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucblassel&layout=compact&hide=jupyter%20notebook,TeX&langs_count=10&theme=onedark" width="50%">
